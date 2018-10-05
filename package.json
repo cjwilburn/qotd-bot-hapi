@@ -1,0 +1,18 @@
+{
+  "name": "qotd-bot-hapi",
+  "version": "1.0.0",
+  "description": "a question of the day app written in hapijs",
+  "main": "server.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "crud",
+    "hapi"
+  ],
+  "author": "Courtney Wilburn",
+  "license": "ISC",
+  "dependencies": {
+    "hapi": "^17.6.0"
+  }
+}
