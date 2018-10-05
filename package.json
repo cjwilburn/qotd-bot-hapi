@@ -6,6 +6,10 @@
   "scripts": {
     "test": "test"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cjwilburn/qotd-bot-hapi.git"
+  },
   "keywords": [
     "crud",
     "hapi"
